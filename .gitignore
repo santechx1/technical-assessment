@@ -1,0 +1,6 @@
+devops-ta/.vscode/
+devops-ta/webapi/.vscode/
+devops-ta/webapi/bin/
+devops-ta/webapi/obj/
+devops-ta/webapi.tests/bin/
+devops-ta/webapi.tests/obj/
